@@ -5,7 +5,7 @@ Dm me your minecraft username (and who you are if this is shared to you) and you
 
 ## Sharing 
 
-You are free to share the IP address to trusted individuals
+You are free to share the IP address to trusted individuals.
 
 ## Rules
 
@@ -25,4 +25,4 @@ You are free to ask me for modifications installations.
 
 ---
 
-by joining the server, you understand the aforementioned information.
+by joining the server, you understand the aforementioned information and respect any changes made my me.
