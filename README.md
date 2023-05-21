@@ -19,7 +19,7 @@ You are free to ask me for modifications installations.
 
 - This server currently runs on ```1.19.4``` ```java edition```
 
-- This server runs on [fabric](https://fabricmc.net/wiki/start) modifications.
+- This server runs on [fabric](https://fabricmc.net/wiki/start) modifications and currently focuses on farming or redstone.
 
 - [PCA-Protocol](https://github.com/plusls/plusls-carpet-addition) is installed, an advanced server-client syncronsation.
     - To utilise this, [MasaGadget](https://github.com/plusls/MasaGadget) is required. 
