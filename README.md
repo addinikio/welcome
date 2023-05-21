@@ -27,6 +27,8 @@ You are free to ask me for modifications installations.
     - To utilise this, [MasaGadget](https://github.com/plusls/MasaGadget) is required. 
 
 - The mods below are installed on the server: 
+    - Carpet
+    - Carpet Extra
     - FerriteCore
     - Lithium 
     - PCA
