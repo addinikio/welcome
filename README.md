@@ -26,6 +26,11 @@ You are free to ask me for modifications installations.
 - [PCA-Protocol](https://github.com/plusls/plusls-carpet-addition) is installed, an advanced server-client syncronsation.
     - To utilise this, [MasaGadget](https://github.com/plusls/MasaGadget) is required. 
 
+- The mods below are installed on the server: 
+-   - FerriteCore
+-   - Lithium 
+-   - PCA
+-   - Starlight
 ---
 
 by joining the server, you understand the aforementioned information and respect any changes made my me.
