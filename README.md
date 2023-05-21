@@ -11,6 +11,7 @@ You are free to share the IP address to trusted individuals.
 
 You are recommended to standby the rules.
 - Be nice.
+- No cheating.
 
 ## About 
 
