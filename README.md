@@ -6,12 +6,14 @@ Dm me your minecraft username (and who you are if this is shared to you) and you
 ## Sharing 
 
 You are free to share the IP address to trusted individuals.
+ - Note: **DO NOT** mass share. 
 
 ## Rules
 
-You are recommended to standby the rules.
+You are recommended to follow the rules.
 - Be nice.
 - No cheating.
+- No griefing. 
 
 ## About 
 
