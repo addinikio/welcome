@@ -14,7 +14,7 @@ You are recommended to follow the rules.
 - Be nice.
 - No cheating.
 - No griefing. 
-- ***Don't use farms that you don't know how to**
+- ***Don't use farms that you don't know how to***
 
 ## About 
 
