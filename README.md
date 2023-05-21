@@ -1,4 +1,4 @@
-# Welcome to ```192.168.1.207```'s server 
+# Welcome to ```219.78.130.251```'s server 
 
 ## Joining
 Dm me your minecraft username (and who you are if this is shared to you) and you will be added to the whitelist.
