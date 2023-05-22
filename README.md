@@ -1,9 +1,9 @@
-# Welcome to ```219.78.130.251```'s server 
+# Welcome to ```219.79.239.164```'s server 
 
 ## Joining
 Dm me your minecraft username (and who you are if this is shared to you) and you will be added to the whitelist.
 Then you will receive the port number. 
-Attempt to join the server with: ```219.78.130.251```:```port number```
+Attempt to join the server with: ```219.79.239.164```:```port number```
 
 ## Sharing 
 
