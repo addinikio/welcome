@@ -2,7 +2,9 @@
 
 ## Joining
 Dm me your minecraft username (and who you are if this is shared to you) and you will be added to the whitelist.
+
 Then you will receive the port number. 
+
 Attempt to join the server with: ```IP address```:```port number```
 
 ## Sharing 
@@ -16,7 +18,8 @@ You are recommended to follow the rules.
 - Be nice.
 - No cheating.
 - No griefing. 
-- ***Don't use farms that you don't know how to***
+- ***Farms and complicated redstone builds should only be utilised by the creator himself, permitted excpeted.***
+   - This is to prevent any damage caused to delicate farms and complicated redstone builds
 
 ## About 
 
