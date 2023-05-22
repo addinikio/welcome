@@ -1,11 +1,11 @@
 # Welcome
 
 ## Joining
-Dm me your minecraft username (and who you are if this is shared to you) and you will be added to the whitelist.
+1. Dm me your minecraft username (and who you are if this is shared to you) and you will be added to the whitelist.
 
-Then you will receive the and IP address port number. 
+2. Then you will receive the and IP address port number. 
 
-Attempt to join the server with: ```IP address```:```port number```
+3. Attempt to join the server with: ```IP address```:```port number```
 
 ## Sharing 
 
