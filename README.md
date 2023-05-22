@@ -22,7 +22,7 @@ You are recommended to follow the rules.
 
 You are free to ask me for modifications installations. 
 
-- This server currently runs on ```1.19.4``` ```java edition```
+- This server currently runs on ```1.19.4``` ```vanilla``` ```java edition```
 
 - This server runs on [fabric](https://fabricmc.net/wiki/start) modifications and currently focuses on farming or redstone.
 
